@@ -3,8 +3,8 @@ class Demo {
         System.out.println("Hello");
     }
 
-    public void add()
+    public void payment()
     {
-        System.out.println("Values Added");
+        System.out.println("Payment done sucussefully...");
     }
 }
