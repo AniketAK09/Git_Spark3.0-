@@ -7,4 +7,9 @@ class Demo {
     {
         System.out.println("Payment done sucussefully...");
     }
+
+    public void notifyUser()
+    {
+        System.out.println("Hello User");
+    }
 }
